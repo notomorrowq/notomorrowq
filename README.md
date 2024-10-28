@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Oleksandr Novik-Dichko
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Data Science
